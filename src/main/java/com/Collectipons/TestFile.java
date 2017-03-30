@@ -1,4 +1,4 @@
-package com.Collectipons;
+package com.Collections;
 
 public class TestFile {
 	public static void main(String[] args) {
